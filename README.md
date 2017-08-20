@@ -1,2 +1,2 @@
-# -A-
-北大公开课计算机概论A的练习代码
+# code of practice
+北大计算机概论A的练习代码--openjudge
